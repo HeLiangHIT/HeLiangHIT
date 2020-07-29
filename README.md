@@ -1,4 +1,4 @@
-### Hi there 👋
+[![HeLiang's github stats](https://github-readme-stats.vercel.app/api?username=HeLiangHIT)](https://github.com/HeLiangHIT)
 
 <!--
 **HeLiangHIT/HeLiangHIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
